@@ -2,7 +2,8 @@
 using namespace std;
 
 int main(int argc, char *argv[]) {
-	cout << "Hola Mundito" << endl;
+	cout << "Hola " << endl;
+	cout << "Alvarito" << endl;
 	return 0;
 }
 
